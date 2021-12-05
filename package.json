@@ -1,0 +1,28 @@
+{
+  "name": "sidx-service-worker",
+  "version": "0.0.1",
+  "description": "Plain JavaScript attempt on running search-index through a service worker. Offline first. Search-index as backend, service worker as the middleware.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklem/sidx-service-worker.git"
+  },
+  "dependencies": {
+    "sirv-cli": "^1.0.14",
+    "batr": "^2.0.0"
+  },
+  "keywords": [
+    "search",
+    "offline-first",
+    "service-worker"
+  ],
+  "author": "Espen Klem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eklem/sidx-service-worker/issues"
+  },
+  "homepage": "https://github.com/eklem/sidx-service-worker#readme"
+}
