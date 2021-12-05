@@ -1,0 +1,45 @@
+{
+    "name": "Search index service worker progressive web application",
+    "short_name": "sidx-service-worker",
+    "start_url": "/",
+    "display": "minimal-ui",
+    "background_color": "#fafafa",
+    "description": "Plain JavaScript attempt on running search-index through a service worker. As a PWA. Offline first. Search-index as backend, service worker as the middleware. ",
+    "dir": "ltr",
+    "lang": "en",
+    "orientation": "any",
+    "scope": "/",
+    "theme_color": "#666666",
+    "icons": [
+        {
+            "src": "/assets/icon_48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icon_72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icon_96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icon_144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icon_168x168.png",
+            "sizes": "168x168",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icon_192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}

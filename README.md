@@ -1,5 +1,5 @@
 # sidx-service-worker
-Plain JavaScript attempt on running search-index through a service worker. Offline first. Search-index as backend, service worker as the middleware.
+Plain JavaScript attempt on running search-index through a service worker. As a PWA. Offline first. Search-index as backend, service worker as the middleware.
 
 ## Get going
 Fork repository from GitHub or install from NPM. Then:
